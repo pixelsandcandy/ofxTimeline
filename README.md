@@ -1,4 +1,5 @@
 # v0.9.8 #
+    $cd PATH_TO/of_v0.9.x/addons
     $git clone https://github.com/pixelsandcandy/ofxTimeline
     $cd ofxTimeline/
     $git checkout babb8fccd8dca792f11b643619685dec005373f2
