@@ -1,0 +1,92 @@
+<positions>
+    <element name="G Rotate X">
+        <x>0.000000000</x>
+        <y>58.000000000</y>
+        <width>1024.000000000</width>
+        <height>78.000000000</height>
+    </element>
+    <element name="G Rotate Y">
+        <x>0.000000000</x>
+        <y>168.000000000</y>
+        <width>1024.000000000</width>
+        <height>0.000000000</height>
+    </element>
+    <element name="G Rotate Z">
+        <x>0.000000000</x>
+        <y>200.000000000</y>
+        <width>1024.000000000</width>
+        <height>80.000000000</height>
+    </element>
+    <element name="G Translate X">
+        <x>0.000000000</x>
+        <y>312.000000000</y>
+        <width>1024.000000000</width>
+        <height>0.000000000</height>
+    </element>
+    <element name="G Translate Y">
+        <x>0.000000000</x>
+        <y>344.000000000</y>
+        <width>1024.000000000</width>
+        <height>0.000000000</height>
+    </element>
+    <element name="G Translate Z">
+        <x>0.000000000</x>
+        <y>376.000000000</y>
+        <width>1024.000000000</width>
+        <height>0.000000000</height>
+    </element>
+    <element name="L Rotate X">
+        <x>0.000000000</x>
+        <y>408.000000000</y>
+        <width>1024.000000000</width>
+        <height>0.000000000</height>
+    </element>
+    <element name="L Rotate Y">
+        <x>0.000000000</x>
+        <y>440.000000000</y>
+        <width>1024.000000000</width>
+        <height>0.000000000</height>
+    </element>
+    <element name="L Rotate Z">
+        <x>0.000000000</x>
+        <y>472.000000000</y>
+        <width>1024.000000000</width>
+        <height>0.000000000</height>
+    </element>
+    <element name="L Translate X">
+        <x>0.000000000</x>
+        <y>504.000000000</y>
+        <width>1024.000000000</width>
+        <height>0.000000000</height>
+    </element>
+    <element name="L Translate Y">
+        <x>0.000000000</x>
+        <y>536.000000000</y>
+        <width>1024.000000000</width>
+        <height>0.000000000</height>
+    </element>
+    <element name="L Translate Z">
+        <x>0.000000000</x>
+        <y>568.000000000</y>
+        <width>1024.000000000</width>
+        <height>0.000000000</height>
+    </element>
+    <element name="O Rotate X">
+        <x>0.000000000</x>
+        <y>600.000000000</y>
+        <width>1024.000000000</width>
+        <height>0.000000000</height>
+    </element>
+    <element name="O Rotate Y">
+        <x>0.000000000</x>
+        <y>632.000000000</y>
+        <width>1024.000000000</width>
+        <height>0.000000000</height>
+    </element>
+    <element name="O Rotate Z">
+        <x>0.000000000</x>
+        <y>664.000000000</y>
+        <width>1024.000000000</width>
+        <height>0.000000000</height>
+    </element>
+</positions>
