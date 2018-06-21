@@ -1,3 +1,17 @@
+# v0.9.8 #
+    $git clone https://github.com/pixelsandcandy/ofxTimeline
+    $cd ofxTimeline/
+    $git checkout bdd2c67c670112e27a03100a3111bb2477fb6002
+    $./clone_addons.sh
+
+
+### history
+    original: https://github.com/YCAMInterlab/ofxTimeline
+    fixed-ish: https://github.com/transat/ofxTimeline
+
+
+
+
 # ofxTimeline #
 ![Timeline](http://www.jamesgeorge.org/images/ofxtimeline/github/Header.png)
 
