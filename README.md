@@ -1,7 +1,7 @@
 # v0.9.8 #
     $git clone https://github.com/pixelsandcandy/ofxTimeline
     $cd ofxTimeline/
-    $git checkout bdd2c67c670112e27a03100a3111bb2477fb6002
+    $git checkout babb8fccd8dca792f11b643619685dec005373f2
     $./clone_addons.sh
 
 
