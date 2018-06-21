@@ -22,4 +22,7 @@ echo "If you're using linux, please make sure you checkout the develop branch of
 
 ${PREFIX}Flightphase/ofxRange.git
 
-${PREFIX}prisonerjohn/ofxAudioDecoder.git
+${PREFIX}pixelsandcandy/ofxAudioDecoder.git
+cd ofxAudioDecoder
+git checkout bbe91e832389c2a8c78eaa04a0318dcc0872b63b
+cd ..
