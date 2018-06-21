@@ -1,13 +1,13 @@
 # v0.9.8 #
     $git clone https://github.com/pixelsandcandy/ofxTimeline
     $cd ofxTimeline/
-    $git checkout e65d87619d37877a4cf8fddd86ca65bc11c8435b
+    $git checkout bdd2c67c670112e27a03100a3111bb2477fb6002
     $./clone_addons.sh
 
 
 ### history
-      original: https://github.com/YCAMInterlab/ofxTimeline
-      fixed-ish: https://github.com/transat/ofxTimeline
+    original: https://github.com/YCAMInterlab/ofxTimeline
+    fixed-ish: https://github.com/transat/ofxTimeline
 
 
 
